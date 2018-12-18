@@ -1,0 +1,38 @@
+body {
+  background-image: url('../img/bg.jpg');
+  /* background-position: center; */
+}
+
+.container {
+  margin-top: 20vh;
+}
+
+#output {
+  width: 100px;
+  height: 50px;
+  text-align: center;
+  font-size: 30px;
+  /* background-color: turquoise;
+  border: #666; */
+}
+
+.clock {
+  display: block;
+  width: 10%;
+  height: 10%;
+  margin: 0 auto;
+  border: 1px solid black;
+  border-radius: 100%;
+}
+
+button {
+  text-align: center;
+  margin: 3.5rem auto;
+  display: block;
+  background-color: black;
+  color: rgb(183, 243, 242);
+  border: none;
+  font-size: 30px;
+  padding: 0.5rem;
+  border-radius: 10%;
+}
